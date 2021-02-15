@@ -1,0 +1,4 @@
+create_containers: 1
+default_container_name: httpd
+default_container_image: httpd
+default_container_command: /bin/bash
