@@ -1,6 +1,6 @@
 O Laboratio e exercicio foram criado na AWS
 
-# Deploy Automatizado via AWS Ckoud Formation #
+# Deploy Automatizado via AWS Cloud Formation #
 
 1. Efetue o Uploado do arquivo MyInstance-v2 e siga o Wizard ( Zona / Tipo de Instancia )
 OBS. Esse template esta customizado para recebar a Subnet / VPC padrão e a imagem do Ubuntu
