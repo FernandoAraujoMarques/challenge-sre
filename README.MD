@@ -2,7 +2,7 @@
 
 # Deploy Automatizado via AWS Cloud Formation #
 
-1. Efetue o Uploado do arquivo MyInstance-v2 e siga o Wizard ( Zona / Tipo de Instancia )
+1. Efetue o Uploa do do arquivo MyInstance-v2 e siga o Wizard ( Zona / Tipo de Instancia )
 OBS. Esse template esta customizado para recebar a Subnet / VPC padrão e a imagem do Ubuntu
 
 # Instalação automatizada do Docker e Criação de um container com a Imagem do apache #
